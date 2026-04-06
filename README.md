@@ -2,7 +2,7 @@
 
 > "what's your aura today?"
 
-Una web app para teens que lee tu "aura" diaria mediante un quiz de 5 preguntas. Diseñada para ser viral, adictiva, y monetizable.
+Tu energía cambia cada día — descubrí qué aura te define hoy. Cinco preguntas, un resultado único, y una estética que solo vos entendés.
 
 ---
 
